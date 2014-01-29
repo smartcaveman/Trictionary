@@ -1,0 +1,4 @@
+trictionary
+===========
+
+Trictionary Data Structure
