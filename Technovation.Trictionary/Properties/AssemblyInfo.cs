@@ -5,9 +5,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Technovation.Trictionary")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Trictionary Data Structure")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Technovation")]
 [assembly: AssemblyProduct("Technovation.Trictionary")]
 [assembly: AssemblyCopyright("Copyright © Technovation 2014")]
 [assembly: AssemblyTrademark("")]
